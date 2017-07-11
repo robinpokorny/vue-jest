@@ -1,5 +1,7 @@
 # vue-jest
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/robinpokorny/vue-jest.svg?token=d6c3ac748fe651ec199e54d577a74a2b379985ae19b39c2180414d7dfae60ac5&ts=1499786474133)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
